@@ -2,7 +2,11 @@ Aus dem Herzen in die Hände
 Eine Linie bis zum Ende
 Von dem Schädel in die Beine
 Rotes Band uns stets vereint
+<<<<<<< HEAD
 
 Jeden Tag und jede Stunde
 Sind auf ewig wir verbunden
 
+some content
+=======
+>>>>>>> parent of b810de5 (added 5-6 lines)
